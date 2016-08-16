@@ -1,0 +1,19 @@
+{% if site.sections.sponsors %}
+
+<section class="patrocinadores" id="patrocinadores">
+    <div class="container">
+
+        <h2>{{site.sponsors_section.title}}</h2>
+
+        {% for sponsor in site.sponsors %}
+        <div class="col-sm-4">
+            <div class="card">
+                <a href="{{ sponsor.url }}" target="_blank">
+                    <img src="{{ sponsor.logo }}" alt="{{ sponsor.name }}" class="sponsors-partners friend-logo" />
+                </a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</section>
+{% endif %}

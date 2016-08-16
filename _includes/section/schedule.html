@@ -1,0 +1,45 @@
+<section class="agenda" id="palestras">
+
+    <div class="container">
+        <div>
+            <div class='panel-container' style='padding-top: 20px;'>
+                {{ site.schedule_section.text }}
+                {% for day in site.schedule %}
+                <div id="{{day.day}}">
+                    <h1>{{ day.name }}</h1>
+                    <span>{{ day.description }}</span>
+                    {% if day.url %}
+                    <span><b><a href="{{ day.url }}">Inscreva-se!</a></b></span>
+                    {% endif %}
+                    <p>&nbsp;</p>
+                    {% for slot in day.agenda %}
+                    <div class="presentation-gem row">
+                        <div class="col-sm-2 col-hour">
+                            <span class="gem-hour">{{ slot.time.start }}<br/><span>{{ slot.time.end }}</span></span>
+                        </div>
+                        <div class="col-sm-8">
+                            <div class="presentation-desc">
+                                <h3>{{ slot.name }}</h3>
+                                <div class="sub"><a href="{{ slot.speaker.url }}">{{ slot.speaker.name }}</a>
+                                </div>
+                                <div>
+                                  <p style="margin-top: 10px">
+                                    {{ slot.description }}
+                                  </p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-2 hidden-xs">
+                            <a href="{{ slot.speaker.url }}" target="_blank"><img src="{{ slot.speaker.photo }}" class="img-responsive" />
+                            </a>
+                        </div>
+                    </div>
+                    <hr/>
+                    {% endfor %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+
+</section>

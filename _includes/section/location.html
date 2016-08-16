@@ -1,0 +1,23 @@
+{% if site.sections.location %}
+
+<section class="localizacao" id="localizacao">
+
+<div id="maplayer" class="maplayer"></div>
+
+<div class="content-wrapper">
+    <div class="col-lg-3 col-md-4 col-sm-6 col-md-offset-1 text-left card loc-bx">
+        <div class="pull-left">
+            <h2>{{site.location_section.title}}</h2>
+            <ul class='list-unstyled'>
+                <li><strong>{{ site.conf.venue }}</strong></li>
+                <li><small>{{ site.conf.address }}</small></li>
+                <li><small>{{ site.conf.city }}</small></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div style="clear:both"></div>
+
+</section>
+
+{% endif %}
