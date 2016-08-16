@@ -53,6 +53,12 @@ organizers:
     bio: ""
     company: ""
   -
+    name: "Carla Almeida"
+    photo: "./img/speakers/carla_almeida.jpg"
+    url: ""
+    bio: ""
+    company: ""
+  -
     name: "Danielle Ismerim"
     photo: "./img/speakers/danielle_ismerim.jpg"
     url: ""
