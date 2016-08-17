@@ -124,6 +124,9 @@ schedule:
           start: "10:00"
           end: "15:00"
         description: "Professora do Curso Técnico Áreas de Programacao para Internet e Jogos Digitais - Universidade Tiradentes."
+        extra:
+          text: "A inscrição para este minicurso é realizada através do endereço: "
+          url: "http://go.gdg.link/g"
         speaker:
           name: "Alexandra dos Santos Rodrigues"
           photo: ""

@@ -26,6 +26,9 @@
                                   <p style="margin-top: 10px">
                                     {{ slot.description }}
                                   </p>
+                                  {% if slot.extra %}
+                                    <p><a href="{{slot.extra.url}}">{{slot.extra.text}} {{slot.extra.url}}</a></p>
+                                  {% endif %}
                                 </div>
                             </div>
                         </div>
