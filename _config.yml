@@ -41,6 +41,12 @@ sections:
 # Organizers list
 organizers:
   -
+    name: "WTM Aracaju"
+    photo: "./img/favicon.ico"
+    url: "http://gdg.link/wtmaracaju/"
+    bio: ""
+    company: ""
+  -
     name: "Jéssica Costa"
     photo: "./img/speakers/jessica_costa.jpg"
     url: "https://www.facebook.com/jessica.ufs"
@@ -129,7 +135,7 @@ schedule:
           url: "http://go.gdg.link/g"
         speaker:
           name: "Alexandra dos Santos Rodrigues"
-          photo: ""
+          photo: "/img/speakers/alexandra_rodrigues.jpg"
           url: ""
   -
     day: "2708P"
@@ -145,7 +151,7 @@ schedule:
         description: "Bacharel em Sistemas de Informação, Web Designer e GDG Organizer."
         speaker:
           name: "Jéssica da Silva Costa"
-          photo: ""
+          photo: "/img/speakers/jessica_costa.jpg"
           url: ""
       -
         name: "Mulher - multitarefa e atuando em TI"
@@ -155,7 +161,7 @@ schedule:
         description: "Bacharel em Ciência da Computação, Gerente de TI."
         speaker:
           name: "Cristina N Castro M Souza"
-          photo: ""
+          photo: "/img/speakers/cristina_souza.jpg"
           url: ""
       -
         name: "Empreendedorismo e Inovação na Área de TIC"
@@ -165,7 +171,7 @@ schedule:
         description: "Mestre em Ciência da Computação pela Universidade Federal de Sergipe (UFS). Possui MBA em Gerência de Projetos e graduação em Sistemas de Informação pela Unit. Atualmente é Gestora de Tecnologia da Informação e Comunicação (TIC) do Sergipe Parque Tecnológico e Diretora de Marketing e Eventos da Associação de Gestores de TI do Estado de Sergipe (CIO-SE)."
         speaker:
           name: "Carla Almeida"
-          photo: ""
+          photo: "/img/speakers/carla_almeida.jpg"
           url: ""
       -
         name: "Criação de Sub-redes com IPV4"
@@ -175,7 +181,7 @@ schedule:
         description: "Analista de Redes - Fase, graduanda em Sistemas de Informação - Fase, coordenadora de TI - Controladoria Geral do Estado."
         speaker:
           name: "Kelly Joany de Oliveira Santos"
-          photo: ""
+          photo: "/img/speakers/kelly_oliveira.jpg"
           url: ""
       - 
         name: "Intervalo para almoço"
@@ -185,7 +191,7 @@ schedule:
         description: ""
         speaker:
           name: ""
-          photo: ""
+          photo: "/img/favicon.ico"
           url: ""
       -
         name: "Mulheres na indústria de games e quais oportunidades existem em Sergipe?"
@@ -195,7 +201,7 @@ schedule:
         description: "Fabíola Monteiro: Designer (UNIT), Lead Artist na Lumentech. Daniel Caldas: Publicitário (UNIT), Head de Inteligência Estratégica na Zeca e criador do Laboratório 99."
         speaker:
           name: "Fabíola Monteiro e Daniel Caldas"
-          photo: ""
+          photo: "/img/speakers/fabiola_monteiro.jpg"
           url: ""
       -
         name: "Propriedade Intelectual"
@@ -205,7 +211,7 @@ schedule:
         description: "Graduada em Processamento de Dados - UNIT, Graduada em Licenciatura Plena, Formação Pedagógica para Formadores da Educação Profissional - UNISUL, Especialista em Didática do Ensino Superior - Faculdade Pio Décimo, Mestra em Modelagem Computacional de Conhecimento - UFAL, Professora do Instituto Federal de Sergipe (IFS), Coordenadora do Núcleo de Inovação Tecnológica do IFS"
         speaker:
           name: "Renata Tânia Brito Morais"
-          photo: ""
+          photo: "/img/speakers/renata_morais.jpg"
           url: ""
       - 
         name: "Gestão de TIC: desafios e oportunidades da liderança feminina"
@@ -215,7 +221,7 @@ schedule:
         description: "Professora Adjunto do Departamento de Computação da Universidade Federal de Sergipe (UFS) desde 2009. Doutora em Engenharia Elétrica (Sistemas Digitais) pela Escola Politécnica da Universidade de São Paulo. Mestre em Administração pela Pontifícia Universidade Católica de São Paulo. Especialista em Análise e Projeto de Sistemas pela FECAP. Graduada em Administração de Empresas pela Universidade Cruzeiro do Sul. Coordenou cursos de Sistemas de Informação e Ciência da Computação. Foi Gerente de Informática e Consultora na área de Tecnologia da Informação e Comunicação (TIC). Atua no Programa de Pós-Graduação em Ciência da Computação (PROCC/UFS). Gerencia o Setor de Gestão de Processos e Tecnologia da Informação do Hospital Universitário da UFS. Lidera o Grupo de Pesquisa em Informática em Saúde (GEPIS) e participa do Grupo de Pesquisa em Engenharia de Software do DCOMP/UFS. Tem interesse e desenvolve pesquisas que incluem: Engenharia de Software, Gestão de Projetos, Engenharia Web, Sistemas de Informação, Gestão de TIC, Gestão de Processos de Negócios e Informática em Saúde."
         speaker:
           name: "Adicinéia Oliveira"
-          photo: ""
+          photo: "/img/speakers/adicineia_oliveira.jpg"
           url: ""
       - 
         name: "Coffee break"
@@ -225,7 +231,7 @@ schedule:
         description: ""
         speaker:
           name: ""
-          photo: ""
+          photo: "/img/favicon.ico"
           url: ""
       - 
         name: "De repente 30"
@@ -235,7 +241,7 @@ schedule:
         description: "É professora e analista de Inovação Acadêmica da Universidade Tiradentes. Mestre em Ciência da Computação pela Universidade Federal de Sergipe (UFS), Pós-graduanda em Gerência de Projetos em Engenharia de Software pelo Centro de Ensino Superior de Juiz de Fora (CES/JF), Graduada em Ciência da Computação pela Faculdade Governador Ozanam Coelho (FAGOC).Tem experiência de 6 anos nas áreas de assessoria em manutenção de software, 4 anos como Analista de Sistemas e Processos de Negócios, 03 anos em Coordenação de Curso de Graduação, 06 anos de docência, entre outras atividades diversas da área de informática. É também articulista da revista Engenharia de Software Magazine e membro do Grupo de Pesquisa Interdisciplinar em Tecnologia da Informação e Comunicação - GPITIC."
         speaker:
           name: "Jenifer Vieira Toledo"
-          photo: ""
+          photo: "/img/speakers/jenifer_vieira.jpg"
           url: ""
       - 
         name: "Encerramento"
@@ -245,7 +251,7 @@ schedule:
         description: ""
         speaker:
           name: "GDG Aracaju"
-          photo: ""
+          photo: "/img/gdg.png"
           url: ""
 
 
