@@ -234,14 +234,14 @@ schedule:
           photo: "/img/favicon.ico"
           url: ""
       - 
-        name: "De repente 30"
+        name: "Palestra surpresa"
         time:
           start: "15:50"
           end: "16:40"
-        description: "É professora e analista de Inovação Acadêmica da Universidade Tiradentes. Mestre em Ciência da Computação pela Universidade Federal de Sergipe (UFS), Pós-graduanda em Gerência de Projetos em Engenharia de Software pelo Centro de Ensino Superior de Juiz de Fora (CES/JF), Graduada em Ciência da Computação pela Faculdade Governador Ozanam Coelho (FAGOC).Tem experiência de 6 anos nas áreas de assessoria em manutenção de software, 4 anos como Analista de Sistemas e Processos de Negócios, 03 anos em Coordenação de Curso de Graduação, 06 anos de docência, entre outras atividades diversas da área de informática. É também articulista da revista Engenharia de Software Magazine e membro do Grupo de Pesquisa Interdisciplinar em Tecnologia da Informação e Comunicação - GPITIC."
+        description: ""
         speaker:
-          name: "Jenifer Vieira Toledo"
-          photo: "/img/speakers/jenifer_vieira.jpg"
+          name: "GDG Aracaju"
+          photo: "/img/gdg.png"
           url: ""
       - 
         name: "Encerramento"
