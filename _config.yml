@@ -23,8 +23,8 @@ site:
     cover: "./img/og_image.png"
     facebook: "http://wtm.gdgaracaju.com.br/img/og_image.png"
 
-subscribe_text: "Inscreva-se gratuitamente!"
-subscribe_url: "http://go.gdg.link/f"
+subscribe_text: "Inscrições encerradas!"
+subscribe_url: "#"
 
 # Active sections on the website
 sections:
